@@ -1,0 +1,307 @@
+[
+ {
+  "text": "Sunlight",
+  "start": 0.3,
+  "end": 0.706
+ },
+ {
+  "text": "looks",
+  "start": 0.741,
+  "end": 0.927
+ },
+ {
+  "text": "white,",
+  "start": 0.973,
+  "end": 1.298
+ },
+ {
+  "text": "but",
+  "start": 1.345,
+  "end": 1.507
+ },
+ {
+  "text": "it's",
+  "start": 1.554,
+  "end": 1.681
+ },
+ {
+  "text": "every",
+  "start": 1.751,
+  "end": 1.983
+ },
+ {
+  "text": "colour",
+  "start": 2.041,
+  "end": 2.285
+ },
+ {
+  "text": "mixed",
+  "start": 2.355,
+  "end": 2.575
+ },
+ {
+  "text": "together.",
+  "start": 2.599,
+  "end": 3.121
+ },
+ {
+  "text": "At",
+  "start": 3.365,
+  "end": 3.527
+ },
+ {
+  "text": "noon,",
+  "start": 3.597,
+  "end": 3.887
+ },
+ {
+  "text": "it",
+  "start": 3.922,
+  "end": 4.05
+ },
+ {
+  "text": "takes",
+  "start": 4.085,
+  "end": 4.282
+ },
+ {
+  "text": "the",
+  "start": 4.317,
+  "end": 4.387
+ },
+ {
+  "text": "short",
+  "start": 4.421,
+  "end": 4.665
+ },
+ {
+  "text": "way",
+  "start": 4.723,
+  "end": 4.851
+ },
+ {
+  "text": "through",
+  "start": 4.886,
+  "end": 5.095
+ },
+ {
+  "text": "the",
+  "start": 5.118,
+  "end": 5.188
+ },
+ {
+  "text": "air,",
+  "start": 5.234,
+  "end": 5.582
+ },
+ {
+  "text": "and",
+  "start": 5.733,
+  "end": 5.884
+ },
+ {
+  "text": "the",
+  "start": 5.931,
+  "end": 6.0
+ },
+ {
+  "text": "blue",
+  "start": 6.047,
+  "end": 6.256
+ },
+ {
+  "text": "scatters",
+  "start": 6.279,
+  "end": 6.709
+ },
+ {
+  "text": "everywhere.",
+  "start": 6.767,
+  "end": 7.324
+ },
+ {
+  "text": "That's",
+  "start": 7.44,
+  "end": 7.661
+ },
+ {
+  "text": "your",
+  "start": 7.696,
+  "end": 7.812
+ },
+ {
+  "text": "blue",
+  "start": 7.846,
+  "end": 8.032
+ },
+ {
+  "text": "sky.",
+  "start": 8.055,
+  "end": 8.508
+ },
+ {
+  "text": "At",
+  "start": 8.682,
+  "end": 8.845
+ },
+ {
+  "text": "sunset,",
+  "start": 8.903,
+  "end": 9.425
+ },
+ {
+  "text": "it",
+  "start": 9.472,
+  "end": 9.6
+ },
+ {
+  "text": "travels",
+  "start": 9.634,
+  "end": 9.983
+ },
+ {
+  "text": "through",
+  "start": 10.029,
+  "end": 10.238
+ },
+ {
+  "text": "way",
+  "start": 10.273,
+  "end": 10.389
+ },
+ {
+  "text": "more",
+  "start": 10.447,
+  "end": 10.61
+ },
+ {
+  "text": "air.",
+  "start": 10.644,
+  "end": 10.935
+ },
+ {
+  "text": "The",
+  "start": 11.144,
+  "end": 11.271
+ },
+ {
+  "text": "blue",
+  "start": 11.318,
+  "end": 11.504
+ },
+ {
+  "text": "scatters",
+  "start": 11.527,
+  "end": 11.887
+ },
+ {
+  "text": "away",
+  "start": 11.945,
+  "end": 12.165
+ },
+ {
+  "text": "before",
+  "start": 12.235,
+  "end": 12.502
+ },
+ {
+  "text": "it",
+  "start": 12.537,
+  "end": 12.618
+ },
+ {
+  "text": "reaches",
+  "start": 12.676,
+  "end": 12.966
+ },
+ {
+  "text": "you.",
+  "start": 13.013,
+  "end": 13.268
+ },
+ {
+  "text": "Only",
+  "start": 13.477,
+  "end": 13.733
+ },
+ {
+  "text": "the",
+  "start": 13.791,
+  "end": 13.872
+ },
+ {
+  "text": "reds",
+  "start": 13.953,
+  "end": 14.174
+ },
+ {
+  "text": "and",
+  "start": 14.209,
+  "end": 14.29
+ },
+ {
+  "text": "oranges",
+  "start": 14.36,
+  "end": 14.754
+ },
+ {
+  "text": "make",
+  "start": 14.812,
+  "end": 14.998
+ },
+ {
+  "text": "it.",
+  "start": 15.045,
+  "end": 15.254
+ },
+ {
+  "text": "So",
+  "start": 15.463,
+  "end": 15.602
+ },
+ {
+  "text": "every",
+  "start": 15.683,
+  "end": 15.904
+ },
+ {
+  "text": "sunset",
+  "start": 15.95,
+  "end": 16.345
+ },
+ {
+  "text": "is",
+  "start": 16.403,
+  "end": 16.484
+ },
+ {
+  "text": "light,",
+  "start": 16.542,
+  "end": 16.925
+ },
+ {
+  "text": "taking",
+  "start": 17.042,
+  "end": 17.355
+ },
+ {
+  "text": "the",
+  "start": 17.39,
+  "end": 17.46
+ },
+ {
+  "text": "long",
+  "start": 17.506,
+  "end": 17.68
+ },
+ {
+  "text": "way",
+  "start": 17.727,
+  "end": 17.843
+ },
+ {
+  "text": "home.",
+  "start": 17.889,
+  "end": 18.284
+ }
+]
